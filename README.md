@@ -174,7 +174,7 @@ This chatbot is part of a graduation project on Advanced Arabic Text Simplificat
 
 ---
 
-## H&M Parallel Corpus — Dataset
+## DAASI Parallel Corpus
 
 The file `h&m parallel(Sheet1).csv` is the original parallel dataset built specifically for this project.
 
@@ -209,7 +209,7 @@ No existing Arabic NLP dataset covers government and insurance documents at this
 - AraT5v2 fine-tuned on the H&M Parallel Corpus (1,875 sentence pairs)
 - GPT-4o with in-domain few-shot prompting
 
-## Evaluation Results (H&M test set)
+## Evaluation Results (DAASI test set)
 
 | System | SARI | BLEU |
 |---|---|---|
