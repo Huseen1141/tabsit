@@ -1,6 +1,6 @@
-\# Tabsit — تبسيط 🌿
+# Tabsit — تبسيط 🌿
 
-\### Hybrid Arabic Text Simplification Chatbot
+### Hybrid Arabic Text Simplification Chatbot
 
 
 
@@ -16,7 +16,7 @@ A graduation project chatbot that simplifies Arabic government and insurance doc
 
 
 
-\## How It Works
+## How It Works
 User Input (complex Arabic text)
 
 ↓
@@ -39,7 +39,7 @@ Final simplified Arabic text
 
 
 
-\## Project Structure
+## Project Structure
 tabsit/
 
 ├── backend/
@@ -62,11 +62,11 @@ tabsit/
 
 
 
-\## Setup \& Run
+## Setup \& Run
 
 
 
-\### Prerequisites
+### Prerequisites
 
 \- Python 3.11+
 
@@ -80,7 +80,7 @@ tabsit/
 
 
 
-\### Backend Setup
+### Backend Setup
 
 
 
@@ -110,7 +110,7 @@ Backend runs at: http://localhost:8000
 
 
 
-\### Frontend Setup
+### Frontend Setup
 
 
 
@@ -134,7 +134,7 @@ Frontend runs at: http://localhost:3000
 
 
 
-\### Every time you want to run Tabsit:
+### Every time you want to run Tabsit:
 
 
 
